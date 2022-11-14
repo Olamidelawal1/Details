@@ -1,0 +1,66 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing:border-box;
+    background-color: white;
+}
+
+
+.first-section{
+    margin: 20px;
+    padding: 25px;
+    border-style: dotted;
+    border-color: black;
+    border-width: 0.5px;
+    width: 100vh;
+    margin-left: 50vh;
+    margin-bottom: 5%
+}
+
+.first-section h3{
+    font-size: 18px;
+}
+
+.first-section p{
+    color: green;
+    font-size: 14px;
+}
+
+.second-section{
+    margin: 20px;
+    padding: 25px;
+    border-style: dotted;
+    border-color: black;
+    border-width: 0.5px;
+    width: 100vh;
+    margin-left: 50vh;
+    margin-bottom: 5%;
+}
+
+.second-section h3{
+    font-size: 18px;
+}
+
+.second-section p{
+    color: red;
+    font-size: 14px;
+}
+
+.third-section{
+    margin: 20 px;
+    padding: 25px;
+    border-style: dotted;
+    border-color: black;
+    border-width: 0.5px;
+    width: 100vh;
+    margin-left: 50vh;
+}
+
+.third-section h3{
+    font-size: 18px;
+}
+
+.third-section p{
+    color: blue;
+    font-size: 14px;
+}
